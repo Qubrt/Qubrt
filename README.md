@@ -1,20 +1,16 @@
 <img src="https://i.pinimg.com/1200x/84/33/8d/84338d09b2a455ab2b7fd4d3ee322242.jpg"/>
-<!--
-**Qubrt/Qubrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-###Hi, everyone! My name is Victor.<br>
+
+<h1 style="text-align: center;">Hi, everyone! My name is Victor.</h1><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-jongov)
 [![Credly](https://img.shields.io/badge/Credly-orange?logo=credly&logoColor=white)](https://www.credly.com/users/victor-jongov)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:victor.jongov@gmail.com)
 
-**A cybersecurity undergraduate who enjoys coding, networking and learning how technology works!**<br>
+<h3 style="text-align: center;">A cybersecurity undergraduate who enjoys coding, networking and learning how technology works!</h3><br>
 
-Currently I'm experimenting in Cisco Packet Tracer and Graphical Network Simulator-3!<br>
+<h3>Currently I'm experimenting in Cisco Packet Tracer and Graphical Network Simulator-3!</h3><br>
 
-Some tools and languages that I know and use:<br>
-Bash, Linux, Windows, Git, CPT, GNS3, Wireshark, Python, Django, C++, JavaSctipt, NodeJS, React, React Native<br>
+<h3>Some tools and languages that I know and use:</h3><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
