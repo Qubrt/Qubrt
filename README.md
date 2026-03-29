@@ -9,7 +9,7 @@
 <h3 style="text-align: center;">I'm a cybersecurity undergraduate who enjoys coding, networking and learning how technology works!</h3><br>
 
 When I am not at uni I enjoy playing **TryHackMe** and **OverTheWire**.  
-Currently I'm experimenting in **Cisco Packet Tracer** and **Graphical Network Simulator-3**!
+Currently I'm experimenting with **Cisco Packet Tracer** and **Graphical Network Simulator-3**!
 
 <h3>Some tools and languages that I know and use:</h3>
 
