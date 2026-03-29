@@ -6,11 +6,12 @@
 [![Credly](https://img.shields.io/badge/Credly-orange?logo=credly&logoColor=white)](https://www.credly.com/users/victor-jongov)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:victor.jongov@gmail.com)
 
-<h3 style="text-align: center;">A cybersecurity undergraduate who enjoys coding, networking and learning how technology works!</h3><br>
+<h3 style="text-align: center;">I'm a cybersecurity undergraduate who enjoys coding, networking and learning how technology works!</h3><br>
 
-<h3>Currently I'm experimenting in Cisco Packet Tracer and Graphical Network Simulator-3!</h3><br>
+When I am not at uni I enjoy playing TryHackMe and OverTheWire.  
+Currently I'm experimenting in Cisco Packet Tracer and Graphical Network Simulator-3!
 
-<h3>Some tools and languages that I know and use:</h3><br>
+<h3>Some tools and languages that I know and use:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -26,5 +27,3 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge)<br>
-
-In my spare time I like playing TryHackMe and OverTheWire.
